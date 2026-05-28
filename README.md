@@ -1,4 +1,4 @@
-# GS---Edge-Computing | # 📡 AGRO SPACE – Sistema Inteligente de Monitoramento Agrícola
+# GS - Edge-Computing |  AGRO SPACE – Sistema Inteligente de Monitoramento Agrícola
 
 ## 📌 Descrição do Projeto
 
@@ -97,7 +97,7 @@ Com base nos cálculos:
 * SCL → A5
 
 ## Modelo Visual do Arduitno
-![Arduino modelo WOKWI](file:///C:/Users/jucas/Downloads/Arduino%20Modelo%20WOKWI.png)
+<img width="1089" height="541" alt="Arduino Modelo WOKWI" src="https://github.com/user-attachments/assets/bff67229-6b86-450c-a8bb-cfac9636b6e0" />
 
 ## 🚀 Instruções de Execução
 
