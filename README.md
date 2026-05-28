@@ -103,7 +103,7 @@ Com base nos cálculos:
 * SDA → A4
 * SCL → A5
 
-## Modelo Visual do Arduitno
+## Modelo Visual do Arduino
 <img width="1089" height="541" alt="Arduino Modelo WOKWI" src="https://github.com/user-attachments/assets/bff67229-6b86-450c-a8bb-cfac9636b6e0" />
 
 ## 🚀 Instruções de Execução
