@@ -1,5 +1,12 @@
 # GS - Edge-Computing |  AGRO SPACE – Sistema Inteligente de Monitoramento Agrícola
 
+
+## 👥 Integrantes do Grupo
+
+* Nome 1: Joao Lucca - rm 569562
+* Nome 2: Murillo Farias - rm569045
+* Nome 3: Thalles Almeida - rm569925
+* Nome 4: Isaac Ambrozevicius - rm569166
 ## 📌 Descrição do Projeto
 
 O **AGRO SPACE** é um sistema de monitoramento agrícola inteligente desenvolvido com Arduino, sensores ambientais e lógica de análise de dados. O projeto coleta informações do ambiente como temperatura, umidade do ar, umidade do solo e distância de obstáculos, processando esses dados para gerar indicadores de prioridade, classificação do solo e status da rota.
@@ -111,14 +118,6 @@ Com base nos cálculos:
 5. Selecionar porta COM correta
 6. Compilar e enviar o código para a placa
 7. Abrir o Serial Monitor (9600 baud)
-
-## 👥 Integrantes do Grupo
-
-* Nome 1: Joao Lucca - rm 569562
-* Nome 2: Murillo Farias - rm569045
-* Nome 3: Thalles Almeida - rm569925
-* Nome 4: Isaac Ambrozevicius - rm569166
-
 
 ## 📂 Arquivos do Projeto
 
